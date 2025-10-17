@@ -2,7 +2,7 @@
   "name": "portfolio-neon",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://AymanGhomim.github.io/portfolio-React",
+  "homepage": "https://aymanghomim.github.io/portfolio-React",
 
   "dependencies": {
     "aos": "^2.3.4",
